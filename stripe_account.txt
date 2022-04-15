@@ -1,0 +1,5 @@
+stripe account
+pass : jhebstripe1024
+
+clave publicable: pk_test_51KoM5qBvh1zRNRmpU0zkyv45Msg2TaKltPcVrFvwsWciJMf5vH9O1EOxEEnCoDMBvtWemO84l4m4RJCo1YKPutia00OhypMxxm
+clave secreta: sk_test_51KoM5qBvh1zRNRmpL8GAXUGFpripTwE0Vcg1dbieCHA3dmEGFobW9gVCbFXW0iBomCVfSsuxiIbvsR3CuCvC27l000emCI0YXZ
