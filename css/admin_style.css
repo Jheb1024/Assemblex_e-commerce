@@ -305,6 +305,18 @@ section{
    border:var(--border);
 }
 
+.proveedor-btn{
+   text-align: center;
+   margin:0 auto;
+   padding-bottom: 20px;
+   
+}
+.proveedor-btn input{
+   text-align: center;
+   background-color: #c0392b !important;
+}
+
+
 .show-products .box-container{
    display: grid;
    grid-template-columns: repeat(auto-fit, 30rem);

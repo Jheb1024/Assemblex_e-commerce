@@ -90,6 +90,7 @@ if (isset($_POST['update_product'])) {
 	<?php
 	include 'admin_header.php';
 	?>
+	
 	<section class="add-products">
 		<form action="" method="post" enctype="multipart/form-data">
 			<h3>Agregar productos</h3>
@@ -100,6 +101,9 @@ if (isset($_POST['update_product'])) {
 
 		</form>
 	</section>
+	<div class="proveedor-btn">
+		<a href="proveedores.php"><input type="button" value="Comprar con proveedor" name="add_product" class="btn"></a>
+	</div>
 
 	<section class="show-products">
 

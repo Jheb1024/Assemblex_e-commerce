@@ -46,7 +46,7 @@ if (isset($_POST['add_to_cart'])) {
 	<section class="home">
 		<div class="content">
 			<h3>Encuentra todas las piezas para ensamblar tu computadora</h3>
-			<p>fjsdhfkshfksdjkfsdjkfhjdkshfjksdhfjkhfjhsdkjhfksjdhf</p>
+			<p></p>
 			<a href="about.php" class="white-btn">Descubre más</a>
 		</div>
 	</section>
